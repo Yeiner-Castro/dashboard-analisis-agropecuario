@@ -1,0 +1,2 @@
+# utils/__init__.py
+from .data_processing import load_data, filter_data, filter_data_by_cultivo, production_yield_by_department, filter_data_by_tipo_cultivo, calculate_tendencias, calculate_std_produccion, calculate_std_rendimiento, calculate_correlations, calculate_comparacion_ciclo, calculate_variaciones_estacionales, calculate_trendline, calculate_std_rendimiento
